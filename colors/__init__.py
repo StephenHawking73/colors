@@ -105,3 +105,8 @@ def rgb(r: int, g: int, b: int, *args):
 
 def bg_rgb(r: int, g: int, b: int, *args):
     return f"\033[48;2;{r};{g};{b}m{' '.join(map(str, args))}{RESET}"
+
+# ---------- Terminal löschen -----
+def clear():
+    """Löscht den Terminal-Inhalt."""
+    print("\033[H\033[J", end="")
