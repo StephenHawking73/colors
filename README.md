@@ -15,5 +15,5 @@ pip install git+https://github.com/StephenHawking73/colors.git
 ```bash
 from colors import red, underline
 
-print(yellow(underline("Verwendung")))
+print(red(underline("Verwendung")))
 ```
