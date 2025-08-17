@@ -4,7 +4,7 @@ build_backend = "setuptools.build_meta"
 
 [project]
 name = "colors"
-version = "0.1.0"
+version = "0.2.0"
 description = "Ein einfaches Modul für farbige Terminalausgaben mit ANSI-Sequenzen"
 readme = "README.md"
 license = {text = "MIT"}
