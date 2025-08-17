@@ -8,6 +8,7 @@ Direkt von GitHub installieren:
 
 ```bash
 pip install git+https://github.com/StephenHawking73/colors.git
+```
 
 ## Verwendung
 
@@ -15,3 +16,4 @@ pip install git+https://github.com/StephenHawking73/colors.git
 from colors import red, underline
 
 print(yellow(underline("Verwendung")))
+```
