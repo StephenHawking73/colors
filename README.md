@@ -7,4 +7,4 @@ Ein kleines Python-Modul für farbige Terminalausgaben mit ANSI-Escape-Sequenzen
 Direkt von GitHub installieren:
 
 ```bash
-pip install git+https://github.com/DEIN_GITHUB/colors.git
+pip install git+https://github.com/StephenHawking73/colors.git
